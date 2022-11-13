@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Projeto Mobile Fatec</string>
+    <string name="clique_abaixo_para_iniciar">Clique abaixo para iniciar</string>
+    <string name="iniciar">Iniciar</string>
+</resources>
